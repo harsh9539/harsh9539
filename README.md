@@ -1,4 +1,4 @@
-## <em> Hi I'm Harsh</em> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## <em> Hi I'm Harsh Goyal</em> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ><em></em> &nbsp; <em> I'm Working towards achieving epitome of consistency  </em> 📈
 <div class="suck">
 <img width=500px height=300px align="left" src="https://images.unsplash.com/photo-1527474305487-b87b222841cc?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZGF0YSUyMHNjaWVuY2V8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" />
@@ -15,11 +15,12 @@
 #### <em> ⭕ Currently Studying: In Chitkara University 1st year(CSE)</em> 
 #### <em> ⭕ My ToolBox ⬇️
 &nbsp; <img align="left" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="30" height="30"/> 
- <img align="left" src="https://img.icons8.com/windows/32/26e07f/django.png" width="30" height="30"/>
+<!-- <img align="left" src="https://img.icons8.com/windows/32/26e07f/django.png" width="30" height="30"/> -->
 <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
 <img align="left" src="https://img.icons8.com/color/48/26e07f/pycharm.png" width="30" height="30"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="30" height="30"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="25" height="30"/> 
+ <img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AUnofficial_JavaScript_logo_2.svg&psig=AOvVaw3Lxl_N2QouwCbeRuB3A3ln&ust=1651056770109000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJjE9fbHsfcCFQAAAAAdAAAAABAD" alt="html5" width="30" height="30"/>
 <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="30" height="30"/>
  
  
