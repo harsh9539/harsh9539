@@ -15,17 +15,18 @@
 #### <em> ⭕ Currently Studying: In Chitkara University 1st year(CSE)</em> 
 #### <em> ⭕ My ToolBox ⬇️
 &nbsp; <img align="left" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="30" height="30"/> 
- <img align="left" src="https://user-images.githubusercontent.com/76143659/165285636-b4f97104-7f73-44f7-bb38-e8a16322fd44.png" alt="python" width="30" height="30"/> 
+ <img align="left" src="https://user-images.githubusercontent.com/76143659/165285636-b4f97104-7f73-44f7-bb38-e8a16322fd44.png" alt="C++" width="30" height="30"/> 
 <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
 <img align="left" src="https://img.icons8.com/color/48/26e07f/pycharm.png" width="30" height="30"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="30" height="30"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="25" height="30"/> 
- <img align="left" src="https://user-images.githubusercontent.com/76143659/165285032-750fa009-4c13-415e-8b6d-c4ece7b479fd.png" alt="html5" width="30" height="30"/>
-  <img align="left" src="https://user-images.githubusercontent.com/76143659/165285274-7f6dd670-852a-479d-afe1-c5dcd64abaaa.png" alt="html5" width="30" height="30"/>
- <img align="left" src="https://user-images.githubusercontent.com/76143659/165285453-6b6dc612-59ec-472a-83f6-72d649e1399e.png" alt="html5" width="30" height="30"/>
+ <img align="left" src="https://user-images.githubusercontent.com/76143659/165285032-750fa009-4c13-415e-8b6d-c4ece7b479fd.png" alt="JS" width="30" height="30"/>
+  <img align="left" src="https://user-images.githubusercontent.com/76143659/165285274-7f6dd670-852a-479d-afe1-c5dcd64abaaa.png" alt="React" width="30" height="30"/>
+ <img align="left" src="https://user-images.githubusercontent.com/76143659/165286393-2fde5dc6-7554-4a12-b996-fc5da37ad635.png" alt="Mongo" width="30" height="30"/>
 <img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="30" height="30"/>
  
 
 
+![mongo](https://user-images.githubusercontent.com/76143659/165286393-2fde5dc6-7554-4a12-b996-fc5da37ad635.png)
 
 
