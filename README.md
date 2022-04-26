@@ -27,6 +27,5 @@
  
 
 
-![mongo](https://user-images.githubusercontent.com/76143659/165286393-2fde5dc6-7554-4a12-b996-fc5da37ad635.png)
 
 
