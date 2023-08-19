@@ -1,35 +1,58 @@
-## <em> Hi I'm Harsh Goyal</em> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-><em></em> &nbsp; <em> I'm Working towards achieving epitome of consistency  </em> 📈
-<div class="suck">
-<img width=500px height=300px align="left" src="https://images.unsplash.com/photo-1527474305487-b87b222841cc?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8ZGF0YSUyMHNjaWVuY2V8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" />
- </div>
+<h2 align="left">Hi 👋! My name is Harsh Goyal and I'm a Full Stack Developer and freelancer.</h2>
 
-#### <em> ⭕ How to Reach me: </em>
-&nbsp; &nbsp; [<img height="28" src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" />](https://twitter.com/Harsh9539_)
-&nbsp; &nbsp; [<img height="28" src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" />](https://www.facebook.com/harsh.goel.148116/)
-&nbsp; &nbsp; [<img height="28" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />](https://www.instagram.com/harsh9539_/)
-&nbsp; &nbsp; [<img height="28" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />](https://www.linkedin.com/in/harsh-goyal-0a486a216/)
-#### <em> ⭕ B.Tech student </em>
-#### <em> ⭕ Competitive Coder </em>
-#### <em> ⭕ Software Engineer in making ⏳ </em>
-#### <em> ⭕ Currently Studying: In Chitkara University 1st year(CSE)</em> 
-#### <em> ⭕ My ToolBox ⬇️
-&nbsp; <img align="left" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="30" height="30"/> 
- <img align="left" src="https://user-images.githubusercontent.com/76143659/165285636-b4f97104-7f73-44f7-bb38-e8a16322fd44.png" alt="C++" width="30" height="30"/> 
-<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
-<img align="left" src="https://img.icons8.com/color/48/26e07f/pycharm.png" width="30" height="30"/>
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="30" height="30"/>
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" width="25" height="30"/> 
- <img align="left" src="https://user-images.githubusercontent.com/76143659/165285032-750fa009-4c13-415e-8b6d-c4ece7b479fd.png" alt="JS" width="30" height="30"/>
-  <img align="left" src="https://user-images.githubusercontent.com/76143659/165287132-3014af1d-c020-4e68-8358-89feebf29553.png" alt="NODE" width="30" height="30"/>
-  <img align="left" src="https://user-images.githubusercontent.com/76143659/165285274-7f6dd670-852a-479d-afe1-c5dcd64abaaa.png" alt="React" width="30" height="30"/>
- <img align="left" src="https://user-images.githubusercontent.com/76143659/165286393-2fde5dc6-7554-4a12-b996-fc5da37ad635.png" alt="Mongo" width="30" height="30"/>
-<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="30" height="30"/>
-  <img align="left" src="https://user-images.githubusercontent.com/76143659/165287243-7a59c3c8-a077-4b39-b7e3-91b97f37ea5f.png" alt="API" width="30" height="30"/>
- 
+###
 
+<img align="right" height="150" src="https://github.com/harsh9539/harsh9539/assets/76143659/c5a28942-4f97-41e6-b951-364219647567"  />
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="30" alt="heroku logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
 
+###
 
+<div align="center">
+  <a href="https://www.instagram.com/harsh9539_/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/harsh9539/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
+###
